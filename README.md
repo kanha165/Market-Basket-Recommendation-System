@@ -13,7 +13,7 @@ An AI-powered recommendation system that suggests products based on user selecti
 * 🎛️ Sidebar Filters (Support & Confidence)
 * 💡 Clean and Modern UI (Dashboard Style)
 
---
+---
 
 ## 🧠 How It Works
 
