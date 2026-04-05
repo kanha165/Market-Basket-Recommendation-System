@@ -15,7 +15,7 @@ An AI-powered recommendation system that suggests products based on user selecti
 
 ---
 
-## 🧠 How It Work
+## 🧠 How It Works
 
 This system uses the **Apriori Algorithm** to analyze transaction data and generate association rules.
 
@@ -24,7 +24,7 @@ This system uses the **Apriori Algorithm** to analyze transaction data and gener
 * **Confidence** → Likelihood of recommendation
 * **Support** → Frequency of item combination
 
----
+--
 
 ## 🛠️ Tech Stack
 
