@@ -24,7 +24,7 @@ This system uses the **Apriori Algorithm** to analyze transaction data and gener
 * **Confidence** → Likelihood of recommendation
 * **Support** → Frequency of item combination
 
---
+---
 
 ## 🛠️ Tech Stack
 
